@@ -1,0 +1,1085 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 4175, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P060", 
+        "Parque" : "Manuel Gouveia", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Manuel Gouveia (ao lado das bombas de combustível) - 1900-314 Lisboa", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 1, 
+        "Servico" : " ||\u003e WC Público ||\u003e Wc Mob. Reduzida", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.35000000 ||\u003e 1.ª Hora: 0.50000000 ||\u003e 2.ª Hora: 1.00000000 ||\u003e 3.ª Hora: 1.50000000 ||\u003e 4.ª Hora: 2.00000000 ||\u003e Máximo Diário:3.00000000", 
+        "TarifaAvenca" : " ||\u003e Passe Lisboa Viva:10.00000000 ||\u003e Pub 24H:45.00000000 ||\u003e Res 24H:35.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4175
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4176, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17073416447399, 38.7185797457903
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P061", 
+        "Parque" : "Correia Teles", 
+        "Tipologia" : "Misto", 
+        "Morada" : "Rua Correia Teles, 103 - 1350 Lisboa", 
+        "Freguesia" : "Campo de Ourique", 
+        "CP7" : "1350-157", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.25000000 ||\u003e 1.ª Hora: 0.80000000 ||\u003e 2.ª Hora: 1.60000000 ||\u003e 3.ª Hora: 2.40000000 ||\u003e 4.ª Hora: 3.20000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:105.00000000 ||\u003e Com 24H - VIP:80.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:41.75000000 ||\u003e Pub 24H-  VIP:140.00000000 ||\u003e Pub Diu:50.00000000 ||\u003e Pub Diu - VIP:75.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:55.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4176
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4177, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10752124836698, 38.7630339451394
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P062", 
+        "Parque" : "Avenida de Pádua (exclusivo a Rotação)", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Avenida de Pádua, no acesso ao Cemitério dos Olivais", 
+        "Freguesia" : "Olivais", 
+        "CP7" : "1800-141", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.00000000 ||\u003e 1.ª Hora: 0.00000000 ||\u003e 2.ª Hora: 1.60000000 ||\u003e 3.ª Hora: 2.40000000 ||\u003e 4.ª Hora: 3.20000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4177
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4178, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12862485405543, 38.7160835766872
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P036", 
+        "Parque" : "Graça", 
+        "Tipologia" : "Misto", 
+        "Morada" : "Rua da Verónica, lado oposto ao n.º 128 - 1170-313 Lisboa", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : "1170-313", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.20000000 ||\u003e 1.ª Hora: 0.80000000 ||\u003e 2.ª Hora: 1.60000000 ||\u003e 3.ª Hora: 2.40000000 ||\u003e 4.ª Hora: 3.20000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:110.00000000 ||\u003e Com 24H - VIP:95.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:135.00000000 ||\u003e Pub 24H - VIP:100.00000000 ||\u003e Pub Diu:100.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:70.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4178
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4179, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P025", 
+        "Parque" : "Lumiar", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Largo da República da Turquia - 1750-250 Lisboa", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : " ||\u003e WC Público", 
+        "Horario" : "07h00-24h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.20000000 ||\u003e 1.ª Hora: 0.80000000 ||\u003e 2.ª Hora: 1.60000000 ||\u003e 3.ª Hora: 2.40000000 ||\u003e 4.ª Hora: 3.20000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:105.00000000 ||\u003e Com 24H - Lugar Duplo:110.00000000 ||\u003e Com 24H - VIP:80.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Moto 24H - VIP:50.00000000 ||\u003e Pub 24H:121.00000000 ||\u003e Pub 24H - Lugar Duplo:130.00000000 ||\u003e Pub 24H - VIP:160.00000000 ||\u003e Pub Diu:104.30000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - Com dístico:80.00000000 ||\u003e Res 24H - Lugar Duplo:85.00000000 ||\u003e Res 24H - VIP:55.00000000 ||\u003e Res Diu:60.00000000 ||\u003e Res Not:40.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4179
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4180, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13507527026348, 38.7122731733888
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P001", 
+        "Parque" : "Chão do Loureiro", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Entre Largo da Atafona e Calçada Marquês de Tancos - 1100-046 Lisboa", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-046", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : " ||\u003e WC Público ||\u003e Wc Mob. Reduzida", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.50000000 ||\u003e 1.ª Hora: 1.45000000 ||\u003e 2.ª Hora: 2.95000000 ||\u003e 3.ª Hora: 4.80000000 ||\u003e 4.ª Hora: 6.80000000 ||\u003e Máximo Diário:20.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:100.00000000 ||\u003e Com Diu:62.50000000 ||\u003e Com Not:37.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:127.20000000 ||\u003e Pub Diu:99.00000000 ||\u003e Pub Not:60.00000000 ||\u003e Res 24H:78.20000000 ||\u003e Res 24H - Com dístico:50.00000000 ||\u003e Res Diu:52.15000000 ||\u003e Res Not:24.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4180
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4181, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12890277536083, 38.7425815829169
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P002", 
+        "Parque" : "Casal Vistoso", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua João da Silva – Complexo Desportivo do Casal Vistoso - 1900-271 Lisboa", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-271", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.20000000 ||\u003e 3.ª Hora: 3.40000000 ||\u003e 4.ª Hora: 4.45000000 ||\u003e Máximo Diário:5.30000000", 
+        "TarifaAvenca" : " ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:121.00000000 ||\u003e Pub Diu:80.00000000 ||\u003e Pub Not:40.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - Com dístico:70.00000000 ||\u003e Res 24H - VIP:50.00000000 ||\u003e Res Diu:37.00000000 ||\u003e Res Not:24.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4181
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4182, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17154037850228, 38.749981376736
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P004", 
+        "Parque" : "Estrada da Luz (exclusivo a Rotação)", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Rua Manuel da Silva Leal (em frente à Loja do Cidadão das Laranjeiras) - 1600-166 Lisboa", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1600-166", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "2.ª a 6.ª, 07h00-24h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.25000000 ||\u003e 2.ª Hora: 2.45000000 ||\u003e 3.ª Hora: 3.75000000 ||\u003e 4.ª Hora: 5.20000000 ||\u003e Máximo Diário:23.40000000", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4182
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4183, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18934303906092, 38.7534356288026
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P005", 
+        "Parque" : "Lusíada (exclusivo a Rotação)", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Entre Largo da Revista Militar e a Rua Galileu Galilei - 1500-392 Lisboa", 
+        "Freguesia" : "Benfica", 
+        "CP7" : "1500-392", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "08h00-02h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.25000000 ||\u003e 2.ª Hora: 2.45000000 ||\u003e 3.ª Hora: 3.75000000 ||\u003e 4.ª Hora: 5.20000000 ||\u003e Máximo Diário:24.80000000", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4183
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4184, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18804466069347, 38.7524358439252
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P006", 
+        "Parque" : "Colégio Militar", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Pç. Cosme Damião (em frente ao Estádio da Luz e à Agência Lusa) - 1500-211 Lisboa", 
+        "Freguesia" : "Benfica", 
+        "CP7" : "1500-211", 
+        "isParkRide" : 1, 
+        "isLisboaVIVA" : 1, 
+        "Servico" : "", 
+        "Horario" : "08h00-02h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.35000000 ||\u003e 1.ª Hora: 1.10000000 ||\u003e 2.ª Hora: 2.00000000 ||\u003e 3.ª Hora: 2.35000000 ||\u003e 4.ª Hora: 2.60000000 ||\u003e Máximo Diário:2.60000000", 
+        "TarifaAvenca" : " ||\u003e Passe Lisboa Viva:26.05000000 ||\u003e Park & Ride:0.00000000 ||\u003e Pub 24H:80.00000000 ||\u003e Pub 24H:120.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4184
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4185, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15442610545339, 38.756373504112
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P008", 
+        "Parque" : "Campo Grande", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Campo Grande - Rua Ernesto de Vasconcelos (junto ao Jardim Bordallo Pinheiro) - 1700-162 Lisboa", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1700-162", 
+        "isParkRide" : 1, 
+        "isLisboaVIVA" : 1, 
+        "Servico" : "", 
+        "Horario" : "2.ª a 6.ª, 07h00-24h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.35000000 ||\u003e 1.ª Hora: 1.10000000 ||\u003e 2.ª Hora: 2.00000000 ||\u003e 3.ª Hora: 2.35000000 ||\u003e 4.ª Hora: 2.60000000 ||\u003e Máximo Diário:2.60000000", 
+        "TarifaAvenca" : " ||\u003e Passe Lisboa Viva:26.05000000 ||\u003e Park & Ride:0.00000000 ||\u003e Pub 24H:120.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4185
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4186, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.20394836678203, 38.6971731547391
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P009", 
+        "Parque" : "Belém (exclusivo a Rotação)", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Rua Belém, 124 - 1300-086 Lisboa", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1300-086", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "08h00-02h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.50000000 ||\u003e 1.ª Hora: 1.00000000 ||\u003e 2.ª Hora: 2.00000000 ||\u003e 3.ª Hora: 3.80000000 ||\u003e 4.ª Hora: 5.60000000 ||\u003e Máximo Diário:30.80000000", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4186
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4187, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13021139225929, 38.7126286472649
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P010", 
+        "Parque" : "Portas do Sol (exclusivo a Assinaturas)", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua São Tomé, 88 (junto ao Largo das Portas do Sol) - 1100-564 Lisboa", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-564", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : " ||\u003e Com 24H:120.00000000 ||\u003e Com Diu:74.00000000 ||\u003e Com Not:50.00000000 ||\u003e Pub 24H:135.00000000 ||\u003e Pub Diu:105.00000000 ||\u003e Pub Not:80.00000000 ||\u003e Res 24H:78.20000000 ||\u003e Res Diu:80.00000000 ||\u003e Res Not:50.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:26:50", 
+        "ESRI_OID" : 4187
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4188, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14775432330625, 38.7111828491038
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P011", 
+        "Parque" : "Calçada do Combro", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Entre Calçada do Combro do N.º 58 a 70, e Travessa André Valente nº 7 - 1200-024 Lisboa", 
+        "Freguesia" : "Misericórdia", 
+        "CP7" : "1200-024", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.50000000 ||\u003e 1.ª Hora: 1.45000000 ||\u003e 2.ª Hora: 2.90000000 ||\u003e 3.ª Hora: 4.70000000 ||\u003e 4.ª Hora: 6.65000000 ||\u003e Máximo Diário:13.05000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:80.00000000 ||\u003e Com Diu:60.00000000 ||\u003e Com Not:41.75000000 ||\u003e Pub 24H:100.00000000 ||\u003e Pub Diu:70.00000000 ||\u003e Pub Not:50.00000000 ||\u003e Res 24H:50.00000000 ||\u003e Res Diu:50.00000000 ||\u003e Res Not:31.30000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4188
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4189, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1862757188465, 38.7566109356587
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P014", 
+        "Parque" : "Ana de Castro Osório (exclusivo a Assinaturas)", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Ana de Castro Osório - Carnide", 
+        "Freguesia" : "Carnide", 
+        "CP7" : "1500-023", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : " ||\u003e Pub 24H:50.00000000", 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:26:50", 
+        "ESRI_OID" : 4189
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4190, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.1458277674815, 38.7190791230773
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P018", 
+        "Parque" : "Mayer", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Parque Mayer - Travessa do Salitre, 29 a 35 - 1250-096 Lisboa", 
+        "Freguesia" : "Santo António", 
+        "CP7" : "1250-096", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.25000000 ||\u003e 2.ª Hora: 2.45000000 ||\u003e 3.ª Hora: 3.75000000 ||\u003e 4.ª Hora: 5.20000000 ||\u003e Máximo Diário:33.20000000", 
+        "TarifaAvenca" : " ||\u003e Pub 24H:166.90000000 ||\u003e Pub Not:70.00000000 ||\u003e Teatro:25.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4190
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4191, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15937857511323, 38.7522021767914
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P019", 
+        "Parque" : "Universidade", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Av. Prof. Gama Pinto (placa central) - 1600-191 Lisboa", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-191", 
+        "isParkRide" : 1, 
+        "isLisboaVIVA" : 1, 
+        "Servico" : "", 
+        "Horario" : "2.ª a 6.ª, 07h00-24h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.35000000 ||\u003e 1.ª Hora: 1.10000000 ||\u003e 2.ª Hora: 2.00000000 ||\u003e 3.ª Hora: 2.35000000 ||\u003e 4.ª Hora: 2.60000000 ||\u003e Máximo Diário:2.60000000", 
+        "TarifaAvenca" : " ||\u003e Passe Lisboa Viva:26.05000000 ||\u003e Park & Ride:0.00000000 ||\u003e Pub 24H:120.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4191
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4192, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13283720795658, 38.7438131404503
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P021", 
+        "Parque" : "Areeiro", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Av.ª Almirante Gago Coutinho (junto ao Clube de Campismo de Lisboa) - 1000-010 Lisboa", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1000-010", 
+        "isParkRide" : 1, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "2.ª a 6.ª, 07h00-24h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.20000000 ||\u003e 3.ª Hora: 3.40000000 ||\u003e 4.ª Hora: 4.45000000 ||\u003e Máximo Diário:5.30000000", 
+        "TarifaAvenca" : " ||\u003e Park & Ride:0.00000000 ||\u003e Pub 24H:80.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4192
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4193, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16272551084248, 38.7455069340562
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P022", 
+        "Parque" : "Combatentes", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Av. Forças Armadas - Ramal de acesso à Av. Combatentes - 1600-042 Lisboa", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1600-042", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "2.ª a 6.ª, 07h00-24h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.20000000 ||\u003e 3.ª Hora: 3.40000000 ||\u003e 4.ª Hora: 4.45000000 ||\u003e Máximo Diário:5.30000000", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4193
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4194, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13186969364202, 38.7084662473304
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P054", 
+        "Parque" : "Campo das Cebolas", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua da Alfândega - 1100-016 Lisboa", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-016", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.50000000 ||\u003e 1.ª Hora: 1.50000000 ||\u003e 2.ª Hora: 3.00000000 ||\u003e 3.ª Hora: 4.50000000 ||\u003e 4.ª Hora: 6.00000000 ||\u003e Máximo Diário:25.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:93.90000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:101.75000000 ||\u003e Pub Diu:75.00000000 ||\u003e Res 24H:78.20000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4194
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4195, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15996207285689, 38.7440813343584
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P024", 
+        "Parque" : "Rego", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Soeiro Pereira Gomes, 10 (Jardins de S. Lourenço) - 1600-315 Lisboa", 
+        "Freguesia" : "Avenidas Novas", 
+        "CP7" : "1600-315", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "2.ª a 6.ª, 07h00-21h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.00000000 ||\u003e 2.ª Hora: 2.00000000 ||\u003e 3.ª Hora: 3.00000000 ||\u003e 4.ª Hora: 4.00000000 ||\u003e Máximo Diário:5.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:70.00000000 ||\u003e Com Diu:80.00000000 ||\u003e Com Not:60.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:175.00000000 ||\u003e Pub Diu:110.00000000 ||\u003e Pub Not:60.00000000 ||\u003e Res 24H:80.00000000 ||\u003e Res Diu:37.00000000 ||\u003e Res Not:40.00000000", 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4195
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4196, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17451103954785, 38.7060156314153
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P037", 
+        "Parque" : "Alcântara", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Rua das Fontainhas, 13-45 -  1300-256 Lisboa", 
+        "Freguesia" : "Alcântara", 
+        "CP7" : "1300-256", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.50000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.40000000 ||\u003e 3.ª Hora: 3.60000000 ||\u003e 4.ª Hora: 4.80000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:60.00000000 ||\u003e Com Diu:0.00000000 ||\u003e Com Not:37.00000000 ||\u003e Pub 24H:0.00000000 ||\u003e Pub Diu:50.00000000 ||\u003e Pub Not:25.75000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - Cartão Alcântara:30.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4196
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4197, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P039", 
+        "Parque" : "Ameixoeira", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Azinhaga da Cidade - 1750-064 Lisboa", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-064", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 1, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.35000000 ||\u003e 1.ª Hora: 0.50000000 ||\u003e 2.ª Hora: 1.00000000 ||\u003e 3.ª Hora: 1.50000000 ||\u003e 4.ª Hora: 2.00000000 ||\u003e Máximo Diário:2.00000000", 
+        "TarifaAvenca" : " ||\u003e Passe Lisboa Viva:10.00000000 ||\u003e Pub 24H:45.00000000 ||\u003e Res 24H:35.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:22:56", 
+        "ESRI_OID" : 4197
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4198, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12923593655578, 38.720808307797
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P045", 
+        "Parque" : "Pavilhão + Condomínio Graça (exclusivo a Assinaturas)", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Natália Correia, nº 10 - 1170-166 Lisboa", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : "1170-166", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:26:50", 
+        "ESRI_OID" : 4198
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4199, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15214096148574, 38.765059494716
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P046", 
+        "Parque" : "Telheiras Poente", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Professor Vieira de Almeida, 2 - 1600-667 Lisboa", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1600-667", 
+        "isParkRide" : 1, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "08h00-23h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.40000000 ||\u003e 3.ª Hora: 3.60000000 ||\u003e 4.ª Hora: 4.80000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:110.00000000 ||\u003e Com 24H - VIP:85.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Moto 24H - VIP:50.00000000 ||\u003e Pub 24H:121.00000000 ||\u003e Pub 24H - VIP:95.00000000 ||\u003e Pub Diu:80.00000000 ||\u003e Pub Diu - VIP:100.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:60.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4199
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4200, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16487986320183, 38.7614803758858
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P047", 
+        "Parque" : "Telheiras Nascente", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Professor Eduardo Araújo Coelho, 7 - 1600-235 Lisboa", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1600-235", 
+        "isParkRide" : 1, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "08h00-23h00", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.40000000 ||\u003e 3.ª Hora: 3.60000000 ||\u003e 4.ª Hora: 4.80000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:110.00000000 ||\u003e Com 24H - VIP:85.00000000 ||\u003e Com Diu:62.60000000 ||\u003e Moto 24H:20.00000000 ||\u003e Moto 24H - VIP:50.00000000 ||\u003e Pub 24H:121.00000000 ||\u003e Pub 24H - VIP:95.00000000 ||\u003e Pub Diu:80.00000000 ||\u003e Pub Diu - VIP:100.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:60.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4200
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4201, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15708586516085, 38.7244957849247
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P048", 
+        "Parque" : "Sousa Pinto", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Sousa Pinto, 7 - 1250-002 Lisboa", 
+        "Freguesia" : "Santo António", 
+        "CP7" : "1250-002", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.45000000 ||\u003e 3.ª Hora: 3.85000000 ||\u003e 4.ª Hora: 5.25000000 ||\u003e Máximo Diário:33.25000000", 
+        "TarifaAvenca" : " ||\u003e Pub 24H:135.00000000 ||\u003e Pub Diu:100.00000000 ||\u003e Pub Not:25.75000000 ||\u003e Res 24H:35.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4201
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4202, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.16702778592898, 38.7605191065121
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P053", 
+        "Parque" : "Aldeia de Telheiras (exclusivo a Assinaturas)", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Professor Francisco Gentil, nº19 - 1600-625 Lisboa", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1600-625", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : " ||\u003e Moto 24H:20.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Viaturas Clássicas:50.00000000", 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4202
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4203, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18215354144301, 38.7535847592179
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P063", 
+        "Parque" : "Cosme Damião", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Av.ª Machado dos Santos - 1750-250 Lisboa", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1750-250", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : " ||\u003e WC Público", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.20000000 ||\u003e 1.ª Hora: 0.80000000 ||\u003e 2.ª Hora: 1.60000000 ||\u003e 3.ª Hora: 2.40000000 ||\u003e 4.ª Hora: 3.20000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:110.00000000 ||\u003e Com 24H - VIP:85.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:121.00000000 ||\u003e Pub 24H - VIP:95.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:60.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4203
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4204, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17793575660703, 38.7478415686051
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P012", 
+        "Parque" : "Alto dos Moinhos", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua João Chagas, nº 3  - Urb. A.Moinhos - 1500-493 Lisboa", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1500-493", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : " ||\u003e WC Público ||\u003e Wc Mob. Reduzida", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.00000000 ||\u003e 2.ª Hora: 2.00000000 ||\u003e 3.ª Hora: 3.00000000 ||\u003e 4.ª Hora: 4.00000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:70.00000000 ||\u003e Com Diu:50.00000000 ||\u003e Com Not:37.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:41.75000000 ||\u003e Pub Diu:60.00000000 ||\u003e Pub Not:40.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - Com dístico:50.00000000 ||\u003e Res Diu:37.00000000 ||\u003e Res Not:24.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4204
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4205, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10378312566512, 38.7574512319251
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P065", 
+        "Parque" : "LIDL - Avenida Infante D. Henrique", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Avª Infante D. Henrique, 217, 1800-217 Lisboa", 
+        "Freguesia" : "Olivais", 
+        "CP7" : "1800-217", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.90000000 ||\u003e 1.ª Hora: 3.60000000 ||\u003e 2.ª Hora: 7.20000000 ||\u003e 3.ª Hora: 10.80000000 ||\u003e 4.ª Hora: 14.40000000 ||\u003e Máximo Diário:50.00000000", 
+        "TarifaAvenca" : " ||\u003e Pub 24H:41.75000000 ||\u003e Pub Not:62.60000000 ||\u003e Res 24H:35.00000000 ||\u003e Res Not:35.00000000", 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:24:42", 
+        "ESRI_OID" : 4205
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4206, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13627986995705, 38.7463640683182
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P038", 
+        "Parque" : "Teixeira de Pascoais (exclusivo a Assinaturas)", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Teixeira de Pascoais, nº 10 - 1700-363 Lisboa", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1700-263", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : " ||\u003e WC Público ||\u003e Wc Mob. Reduzida", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : " ||\u003e Pub 24H:121.00000000", 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4206
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4207, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13276953116685, 38.7306585202666
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P067", 
+        "Parque" : "Garagem de Arroios (exclusivo a Assinaturas)", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Heróis de Quionga, 14A , 1170-179 Lisboa", 
+        "Freguesia" : "Penha de França", 
+        "CP7" : "1170-179", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : " ||\u003e Moto 24H:20.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:60.00000000", 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4207
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4208, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10716004471454, 38.7299411109513
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P066", 
+        "Parque" : "HUB Criativo do Beato", 
+        "Tipologia" : "Superfície", 
+        "Morada" : "Rua da Manutenção 118 - 1900-320 Lisboa", 
+        "Freguesia" : "Beato", 
+        "CP7" : "1900-320", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : "||\u003e CallCenter: 211 163 060 ||\u003e Horário: 2ª a 6ª 8:00-20:  H / sábados 9:00-15:00H ||\u003e https://www.emel.pt/pt/parques/", 
+        "TarifaRotacao" : " ||\u003e Mínimo: 0.40000000 ||\u003e 1.ª Hora: 1.20000000 ||\u003e 2.ª Hora: 2.20000000 ||\u003e 3.ª Hora: 3.20000000 ||\u003e 4.ª Hora: 4.20000000 ||\u003e Máximo Diário:10.00000000", 
+        "TarifaAvenca" : " ||\u003e Com 24H:110.00000000 ||\u003e Moto 24H:20.00000000 ||\u003e Pub 24H:121.00000000 ||\u003e Res 24H:35.00000000 ||\u003e Res 24H - VIP:60.00000000", 
+        "FormPagCabine" : "||\u003e Numerário ||\u003e Multibanco", 
+        "FormPagMPA" : "||\u003e Numerário ||\u003e Multibanco", 
+        "CadastradoEm" : "2025-05-30 14:25:40", 
+        "ESRI_OID" : 4208
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4209, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12926447093593, 38.7208165050533
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P068", 
+        "Parque" : "Condomínio Graça", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Natália Correia, N.º 6-8", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : null, 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : "24 Horas", 
+        "ContactoSrvAssistencia" : null, 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : null, 
+        "CadastradoEm" : "2025-05-30 14:26:50", 
+        "ESRI_OID" : 4209
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4210, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14756094387806, 38.7075558089835
+        ]
+      }, 
+      "properties" : {
+        "ParqueCd" : "P069", 
+        "Parque" : "Parque EDP", 
+        "Tipologia" : "Estrutura", 
+        "Morada" : "Rua Dom Luís I, N.º 9, 9A e 12 - 1200-151 Lisboa", 
+        "Freguesia" : "Misericórdia", 
+        "CP7" : "1200-151", 
+        "isParkRide" : 0, 
+        "isLisboaVIVA" : 0, 
+        "Servico" : "", 
+        "Horario" : " ", 
+        "ContactoSrvAssistencia" : null, 
+        "TarifaRotacao" : "", 
+        "TarifaAvenca" : null, 
+        "FormPagCabine" : null, 
+        "FormPagMPA" : null, 
+        "CadastradoEm" : "2025-05-30 14:26:50", 
+        "ESRI_OID" : 4210
+      }
+    }
+  ]
+}

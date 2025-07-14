@@ -1,0 +1,1757 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 8205, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13186969364202, 38.7084662473304
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00262", 
+        "Posto" : "Parque de Estacionamento Campo das Cebolas", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Alfândega", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-016", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8205
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8206, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13186969364202, 38.7084662473304
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00263", 
+        "Posto" : "Parque de Estacionamento Campo das Cebolas", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Alfândega", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-016", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8206
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8207, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00283", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8207
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8208, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00284", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8208
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8209, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00285", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8209
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8210, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00286", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8210
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8211, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00287", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8211
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8212, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00288", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8212
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8213, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12862485405543, 38.7160835766872
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00289", 
+        "Posto" : "Parque de Estacionamento Graça", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Verónica", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : "1170-387", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8213
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8214, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12862485405543, 38.7160835766872
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00290", 
+        "Posto" : "Parque de Estacionamento Graça", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Verónica", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : "1170-387", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8214
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8215, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00291", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8215
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8216, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00292", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8216
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8217, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00293", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8217
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8218, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00294", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8218
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8219, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00295", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8219
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8220, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17073416447399, 38.7185797457903
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00392", 
+        "Posto" : "Parque de Estacionamento Correia Teles", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Correia Teles", 
+        "Freguesia" : "Campo de Ourique", 
+        "CP7" : "1350-097", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8220
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8221, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00422", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8221
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8222, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00423", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8222
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8223, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00424", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8223
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8224, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00425", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8224
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8225, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18215354144301, 38.7535847592179
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00455", 
+        "Posto" : "Parque de Estacionamento Cosme Damião", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Avenida Machado Santos", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1500-374", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8225
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8226, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18215354144301, 38.7535847592179
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00456", 
+        "Posto" : "Parque de Estacionamento Cosme Damião", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Avenida Machado Santos", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1500-374", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8226
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8227, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13507527026348, 38.7122731733888
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00405", 
+        "Posto" : "Parque de Estacionamento Chão do Loureiro", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Calçada do Marquês de Tancos\n(em frente ao nº18)", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-340", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8227
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8228, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13507527026348, 38.7122731733888
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00406", 
+        "Posto" : "Parque de Estacionamento Chão do Loureiro", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Calçada do Marquês de Tancos\n(em frente ao nº18)", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-340", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8228
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8229, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13507527026348, 38.7122731733888
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00407", 
+        "Posto" : "Parque de Estacionamento Chão do Loureiro", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Calçada do Marquês de Tancos\n(em frente ao nº18)", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-340", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8229
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8230, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.22548299958067, 38.6977164000076
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00352", 
+        "Posto" : "Hub Restelo", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Fernão Mendes Pinto / Rua Damião de Góis", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1400-146", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8230
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8231, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.22548299958067, 38.6977164000076
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00353", 
+        "Posto" : "Hub Restelo", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Fernão Mendes Pinto / Rua Damião de Góis", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1400-146", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8231
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8232, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.22548299958067, 38.6977164000076
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00354", 
+        "Posto" : "Hub Restelo", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Fernão Mendes Pinto / Rua Damião de Góis", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1400-146", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8232
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8233, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.22548299958067, 38.6977164000076
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00355", 
+        "Posto" : "Hub Restelo", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Fernão Mendes Pinto / Rua Damião de Góis", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1400-146", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8233
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8234, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.22548299958067, 38.6977164000076
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00356", 
+        "Posto" : "Hub Restelo", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Fernão Mendes Pinto / Rua Damião de Góis", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1400-146", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8234
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8235, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.22548299958067, 38.6977164000076
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00357", 
+        "Posto" : "Hub Restelo", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Fernão Mendes Pinto / Rua Damião de Góis", 
+        "Freguesia" : "Belém", 
+        "CP7" : "1400-146", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8235
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8236, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09529500013061, 38.754258699573
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00358", 
+        "Posto" : "Hub Parque das Nações", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Finisterra", 
+        "Freguesia" : "Parque das Nações", 
+        "CP7" : "1190-113", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8236
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8237, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09529500013061, 38.754258699573
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00359", 
+        "Posto" : "Hub Parque das Nações", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Finisterra", 
+        "Freguesia" : "Parque das Nações", 
+        "CP7" : "1190-113", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8237
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8238, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09529500013061, 38.754258699573
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00360", 
+        "Posto" : "Hub Parque das Nações", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Finisterra", 
+        "Freguesia" : "Parque das Nações", 
+        "CP7" : "1190-113", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8238
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8239, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09529500013061, 38.754258699573
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00361", 
+        "Posto" : "Hub Parque das Nações", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Finisterra", 
+        "Freguesia" : "Parque das Nações", 
+        "CP7" : "1190-113", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8239
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8240, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09529500013061, 38.754258699573
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00362", 
+        "Posto" : "Hub Parque das Nações", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Finisterra", 
+        "Freguesia" : "Parque das Nações", 
+        "CP7" : "1190-113", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8240
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8241, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.09529500013061, 38.754258699573
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00363", 
+        "Posto" : "Hub Parque das Nações", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Rua Finisterra", 
+        "Freguesia" : "Parque das Nações", 
+        "CP7" : "1190-113", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8241
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8242, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14950819990215, 38.7491116004107
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00393", 
+        "Posto" : "Hub Campo Grande", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao edíficio da CML)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-922", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8242
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8243, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14950819990215, 38.7491116004107
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00394", 
+        "Posto" : "Hub Campo Grande", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao edíficio da CML)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-922", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8243
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8244, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14950819990215, 38.7491116004107
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00395", 
+        "Posto" : "Hub Campo Grande", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao edíficio da CML)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-922", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8244
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8245, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14950819990215, 38.7491116004107
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00396", 
+        "Posto" : "Hub Campo Grande", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao edíficio da CML)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-922", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8245
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8246, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14950819990215, 38.7491116004107
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00397", 
+        "Posto" : "Hub Campo Grande", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao edíficio da CML)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-922", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8246
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8247, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14950819990215, 38.7491116004107
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00398", 
+        "Posto" : "Hub Campo Grande", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao edíficio da CML)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-922", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8247
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8248, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14937249986956, 38.7487891001741
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00098", 
+        "Posto" : "Entrecampos", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao nº 13)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-036", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa Carregamento Rápido - 0,15 €/min ≤ 45min e 0,20€/min \u003e 45min", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8248
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8249, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13186969364202, 38.7084662473304
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00259", 
+        "Posto" : "Parque de Estacionamento Campo das Cebolas", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Alfândega", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-016", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8249
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8250, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13186969364202, 38.7084662473304
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00260", 
+        "Posto" : "Parque de Estacionamento Campo das Cebolas", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Alfândega", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-016", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8250
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8251, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13186969364202, 38.7084662473304
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00261", 
+        "Posto" : "Parque de Estacionamento Campo das Cebolas", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Alfândega", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-016", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8251
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8252, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17073416447399, 38.7185797457903
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00390", 
+        "Posto" : "Parque de Estacionamento Correia Teles", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Correia Teles", 
+        "Freguesia" : "Campo de Ourique", 
+        "CP7" : "1350-097", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8252
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8253, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.17073416447399, 38.7185797457903
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00391", 
+        "Posto" : "Parque de Estacionamento Correia Teles", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Correia Teles", 
+        "Freguesia" : "Campo de Ourique", 
+        "CP7" : "1350-097", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8253
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8254, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00418", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8254
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8255, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00419", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8255
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8256, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00420", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8256
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8257, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15963630812118, 38.7734672715634
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00421", 
+        "Posto" : "Parque de Estacionamento Lumiar", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Largo da República da Turquia", 
+        "Freguesia" : "Lumiar", 
+        "CP7" : "1750-250", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8257
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8258, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18215354144301, 38.7535847592179
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00457", 
+        "Posto" : "Parque de Estacionamento Cosme Damião", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Avenida Machado Santos", 
+        "Freguesia" : "São Domingos de Benfica", 
+        "CP7" : "1500-374", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8258
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8259, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13507527026348, 38.7122731733888
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00404", 
+        "Posto" : "Parque de Estacionamento Chão do Loureiro", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Calçada do Marquês de Tancos\n(em frente ao nº18)", 
+        "Freguesia" : "Santa Maria Maior", 
+        "CP7" : "1100-340", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8259
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8260, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14937249986956, 38.7487891001741
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00104", 
+        "Posto" : "Entrecampos", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Campo Grande\n(em frente ao nº 13)", 
+        "Freguesia" : "Alvalade", 
+        "CP7" : "1600-036", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2022-07-02 19:16:01", 
+        "ESRI_OID" : 8260
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8261, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14775432330625, 38.7111828491038
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00584", 
+        "Posto" : "Parque de Estacionamento Calçada do Combro // EMEL", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "calçada do Combro, 58/70", 
+        "Freguesia" : "Misericórdia", 
+        "CP7" : "1200-115", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-06-29 14:18:25", 
+        "ESRI_OID" : 8261
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8262, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14775432330625, 38.7111828491038
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00585", 
+        "Posto" : "Parque de Estacionamento Calçada do Combro // EMEL", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "calçada do Combro, 58/70", 
+        "Freguesia" : "Misericórdia", 
+        "CP7" : "1200-115", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-06-29 14:18:25", 
+        "ESRI_OID" : 8262
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8263, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.14775432330625, 38.7111828491038
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00586", 
+        "Posto" : "Parque de Estacionamento Calçada do Combro // EMEL", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "calçada do Combro, 58/70", 
+        "Freguesia" : "Misericórdia", 
+        "CP7" : "1200-115", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-06-29 14:18:25", 
+        "ESRI_OID" : 8263
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8264, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00616", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8264
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8265, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00617", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8265
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8266, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00618", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8266
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8267, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00619", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8267
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8268, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.13113013196626, 38.7443245905254
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00620", 
+        "Posto" : "Parque de Estacionamento Manuel Gouveia", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua Manuel Gouveia", 
+        "Freguesia" : "Areeiro", 
+        "CP7" : "1900-314", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8268
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8269, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00621", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8269
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8270, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00622", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8270
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8271, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.15785459343472, 38.7795817607939
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00623", 
+        "Posto" : "Parque de Estacionamento Ameixoeira", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Azinhaga da Cidade", 
+        "Freguesia" : "Santa Clara", 
+        "CP7" : "1750-111", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8271
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8272, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12862485405543, 38.7160835766872
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00624", 
+        "Posto" : "Parque de Estacionamento Graça", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Verónica", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : "1170-387", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8272
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8273, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.12862485405543, 38.7160835766872
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00625", 
+        "Posto" : "Parque de Estacionamento Graça", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Verónica", 
+        "Freguesia" : "São Vicente", 
+        "CP7" : "1170-387", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2023-10-12 09:17:44", 
+        "ESRI_OID" : 8273
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8274, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10716004471454, 38.7299411109513
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00817", 
+        "Posto" : "Hub Beato", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Manutenção, 118", 
+        "Freguesia" : "Beato", 
+        "CP7" : "1900-032", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2025-05-19 10:05:52", 
+        "ESRI_OID" : 8274
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8275, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.10716004471454, 38.7299411109513
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00818", 
+        "Posto" : "Hub Beato", 
+        "LocalizacaoTipo" : "Parque de Estacionamento", 
+        "Endereco" : "Rua da Manutenção, 118", 
+        "Freguesia" : "Beato", 
+        "CP7" : "1900-032", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,02 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2025-05-19 10:05:56", 
+        "ESRI_OID" : 8275
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8276, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18715817821347, 38.7612035969904
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00944", 
+        "Posto" : "Azinhaga das Carmelitas", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Azinhaga das Carmelitas, 36", 
+        "Freguesia" : "Carnide", 
+        "CP7" : "1600-766", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2025-05-19 09:56:36", 
+        "ESRI_OID" : 8276
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8277, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -9.18715817821347, 38.7612035969904
+        ]
+      }, 
+      "properties" : {
+        "CarregadorId" : "LSB-00945", 
+        "Posto" : "Azinhaga das Carmelitas", 
+        "LocalizacaoTipo" : "Via Pública", 
+        "Endereco" : "Azinhaga das Carmelitas, 36", 
+        "Freguesia" : "Carnide", 
+        "CP7" : "1600-766", 
+        "FormaPagamento" : "Cartão Cartão RFID/App", 
+        "Tarifa" : " ||\u003e Tarifa diurna [08:00-21:59] - 0,06 €/min ||\u003e Tarifa noturna [22:00-07:59] - 0,10 €/kWh", 
+        "ContactoSrvAssistencia" : "800 910 255", 
+        "CadastradoEm" : "2025-05-19 10:07:19", 
+        "ESRI_OID" : 8277
+      }
+    }
+  ]
+}
